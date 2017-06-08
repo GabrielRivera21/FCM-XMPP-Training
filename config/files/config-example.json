@@ -1,0 +1,5 @@
+{
+  "ENVIRONMENT": "development",
+  "FCM_SENDER_ID": "<SENDER_ID>",
+  "FCM_SERVER_KEY": "<SERVER_KEY>"
+}
